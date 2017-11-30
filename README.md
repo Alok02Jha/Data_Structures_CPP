@@ -1,2 +1,2 @@
-# 836_DataStructures
+# DataStructures
 OOP C++ Data Structures
